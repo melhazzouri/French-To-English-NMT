@@ -26,3 +26,13 @@ When processing a sequence of word ids in batches, it is necessary for each sequ
 ### Predictions 
 
 Convert back the final prediction by our model into text format.
+
+# Model 
+
+Recurrent neural network (RNN) with embedding with 96% accuracy. 
+
+# Results 
+
+Translation from French to English
+
+![Capture](https://user-images.githubusercontent.com/39967400/226690421-e164eb5c-3d4f-449d-a992-d855654bbf28.PNG)

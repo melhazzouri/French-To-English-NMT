@@ -36,3 +36,8 @@ Recurrent neural network (RNN) with embedding with 96% accuracy.
 Translation from French to English
 
 ![Capture](https://user-images.githubusercontent.com/39967400/226690421-e164eb5c-3d4f-449d-a992-d855654bbf28.PNG)
+
+# Dataset
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/samirmoustafa/arabic-to-english-translation-sentences).
+
+For further details see the notebooks in the repository.

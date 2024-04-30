@@ -1,4 +1,4 @@
-# French To English Translation
+# French-to-English Neural Machine Translation
 
 Bonjour! Hi!
 
